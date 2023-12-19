@@ -1,6 +1,6 @@
 // images changer
 // List of image SRCs
-const imageList = ["/imgs/p1.png", "/imgs/p2.png"];
+const imageList = ["./imgs/p1.png", "./imgs/p2.png"];
 let currentImageIndex = 0;
 
 function changeImage() {
